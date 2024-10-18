@@ -1,4 +1,3 @@
-
 # **ARKTIK Global E-League: The Future of Competitive Coding and Cybersecurity**
 
 The ARKTIK Global E-League is an innovative e-sport that brings together hackers, coders, white-hats, phreakers, and digital cowboys in an arena of fun, strategy, and real-world problem-solving. Merging professional coding, cybersecurity competitions, and gamified challenges, the E-League is set to revolutionize the future of e-sports by integrating real-world bugs and quests into gameplay.
